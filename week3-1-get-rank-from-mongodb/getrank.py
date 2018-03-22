@@ -40,4 +40,4 @@ if __name__ == '__main__':
 
     # 根据用户 ID 获取用户排名，分数和时间
     userdata = get_rank(int(user_id))
-    print(userdata)
+    print(user_data)
